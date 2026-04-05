@@ -1,16 +1,17 @@
-## Hi there 👋
+## TryHackMe Learnings
 
-<!--
-**CypherChance/CypherChance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Pre-Security Learning Path
 
-Here are some ideas to get you started:
+| Room | Key Takeaways | Screenshot |
+|------|----------------|-------------|
+| [Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintro) | Offensive Security, Defensive Security, gobuster. | ![LAN](screenshots/pre-security/lan.png) |
+| [OSI Model](https://tryhackme.com/room/oscimodel) | 7 layers, encapsulation, PDU names. | ![OSI](screenshots/pre-security/osi.png) |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Complete Beginner Path (In Progress)
+
+- [x] [How Websites Work](https://tryhackme.com/room/howwebsiteswork) – HTTP requests/responses, status codes.  
+  ![Websites](screenshots/beginner/how-websites-work.png)
+
+## Projects
+- Detection Lab
+- SOC Automation Project
