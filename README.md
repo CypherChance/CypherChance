@@ -4,7 +4,7 @@
 
 | Room | Key Takeaways | Screenshot |
 |------|----------------|-------------|
-| [Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintro) | Offensive Security, Defensive Security, gobuster. | ![Hacked The Fake Bank](PreSecurity/Intro-to-Offensive-Security/HackFakeBank.png) |
+| [Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintro) | In this room, I learned the 2 general sides in Cybersecurity, the Offensive and Defensive side. But this room focused more on the offensive side. Which is basically about compromising an existing system. In this room, I was able to hack into a fake bank, which somehow, gave me an idea of what it is like hacking a bank. It is really important to sanitize your company's website, because in this case, I was able to access the webpage meant for admins to access, which allowed me to exploit it. | ![Hacked The Fake Bank](PreSecurity/Intro-to-Offensive-Security/HackFakeBank.png) |
 | [OSI Model](https://tryhackme.com/room/oscimodel) | 7 layers, encapsulation, PDU names. | ![OSI](screenshots/pre-security/osi.png) |
 
 ### Complete Beginner Path (In Progress)
